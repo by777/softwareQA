@@ -1,5 +1,5 @@
 ﻿# 软件质量保证与测试期末题目整理（FYNC）
-
+结束
 截图：
 ![show](https://raw.githubusercontent.com/by777/softwareQA/master/show.jpg)
 
